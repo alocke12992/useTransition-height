@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/useTransition-height/static/css/main.5f361e03.chunk.css",
+    "main.js": "/useTransition-height/static/js/main.85df13b9.chunk.js",
+    "main.js.map": "/useTransition-height/static/js/main.85df13b9.chunk.js.map",
+    "runtime-main.js": "/useTransition-height/static/js/runtime-main.1b6f05c4.js",
+    "runtime-main.js.map": "/useTransition-height/static/js/runtime-main.1b6f05c4.js.map",
+    "static/js/2.bf0c7436.chunk.js": "/useTransition-height/static/js/2.bf0c7436.chunk.js",
+    "static/js/2.bf0c7436.chunk.js.map": "/useTransition-height/static/js/2.bf0c7436.chunk.js.map",
+    "index.html": "/useTransition-height/index.html",
+    "precache-manifest.116e289bdb517ceba48fcff60fd89bf8.js": "/useTransition-height/precache-manifest.116e289bdb517ceba48fcff60fd89bf8.js",
+    "service-worker.js": "/useTransition-height/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/useTransition-height/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bf0c7436.chunk.js.LICENSE.txt": "/useTransition-height/static/js/2.bf0c7436.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6f05c4.js",
+    "static/js/2.bf0c7436.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.85df13b9.chunk.js"
+  ]
+}
