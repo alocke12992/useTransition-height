@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <a href="https://github.com/alocke12992/useTransition-height" target="_blank" rel="noopener noreferrer">Github</a>
+      <a href="https://github.com/alocke12992/useTransition-height/blob/master/src/App.js" target="_blank" rel="noopener noreferrer">Github</a>
       <button onClick={() => set(!animate)}>Transition</button>
       {transition((values, item) => item && (
         <Animated style={values}>
